@@ -88,12 +88,6 @@ The dashboard includes:
 
 ---
 
-## 📸 Dashboard Preview
-
-![Dashboard](Screenshots/dashboard.png)
-
----
-
 ## 📁 Dataset
 
 The dataset used in this project is included in this repository for educational and portfolio purposes.
